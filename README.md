@@ -76,5 +76,5 @@ Special thanks to the OpenGL and C++ communities for their invaluable resources 
 
 ## License
 
-This project is licensed under the [License Name]. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
