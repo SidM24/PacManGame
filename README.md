@@ -65,16 +65,16 @@ Use the arrow keys to control Pacman's movement:
 Here are some screenshots from the Pacman game:
 
 ### Start Page
-![Screenshot 1](ReadmeImages/Screenshot1.png)
+<img src="ReadmeImages/Screenshot1.png" alt="Screenshot 1" width="362" height="410">
 
 ### Mid-Game 
-![Screenshot 2](ReadmeImages/Screenshot2.png)
+<img src="ReadmeImages/Screenshot2.png" alt="Screenshot 2" width="362" height="410">
 
 ### Chasing Ghosts
-![Screenshot 2](ReadmeImages/Screenshot3.png)
+<img src="ReadmeImages/Screenshot3.png" alt="Screenshot 3" width="362" height="410">
 
 ### Game Over
-![Screenshot 2](ReadmeImages/Screenshot4.png)
+<img src="ReadmeImages/Screenshot4.png" alt="Screenshot 4" width="362" height="410">
 
 
 ## Credits
