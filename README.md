@@ -64,9 +64,18 @@ Use the arrow keys to control Pacman's movement:
 
 Here are some screenshots from the Pacman game:
 
-![Screenshot 1](screenshot1.png)
+### Start Page
+![Screenshot 1](ReadmeImages/Screenshot1.png)
 
-![Screenshot 2](screenshot2.png)
+### Mid-Game 
+![Screenshot 2](ReadmeImages/Screenshot2.png)
+
+### Chasing Ghosts
+![Screenshot 2](ReadmeImages/Screenshot3.png)
+
+### Game Over
+![Screenshot 2](ReadmeImages/Screenshot4.png)
+
 
 ## Credits
 
@@ -77,4 +86,8 @@ Special thanks to the OpenGL and C++ communities for their invaluable resources 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Report
+
+For a detailed report on the development process and technical aspects of the Pacman game, please refer to [Report.pdf](PacmanReport.pdf).
 
