@@ -79,7 +79,7 @@ Here are some screenshots from the Pacman game:
 
 ## Credits
 
-This Pacman game was developed by Siddharth Maithani with contributions from Kashvi Jain and Tanisha Maheshwary. 
+This Pacman game was developed by Siddharth Maithani with contributions from [Kashvi Jain](https://github.com/Kashvi1234) and Tanisha Maheshwary. 
 Special thanks to the OpenGL and C++ communities for their invaluable resources and support.
 
 
