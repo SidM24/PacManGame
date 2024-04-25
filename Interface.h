@@ -28,6 +28,10 @@ void display_Text(float x,float y, string s) {
 void drawStart() {
 	string str = "Press SPACE to start";
 	display_Text(100, 90, str);
+	str = "Press q to quit";
+	display_Text(100, 75, str);
+	str = "Press p to pause/play";
+	display_Text(100, 60, str);
 }
 
 void drawGameOver() {
